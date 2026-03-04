@@ -20,5 +20,5 @@ factory, github, linear, granola, ghostty
 
 ## contact
 - [twitter/x](https://x.com/bentossell)
-- [github](https://github.com/bentossell)
+- [github](https://github.com/bentosseII)
 - [linkedin](https://linkedin.com/in/ben-tossell-70453537)
