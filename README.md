@@ -1,16 +1,24 @@
-## Hi there 👋
+# ben tossell
 
-<!--
-**bentosseII/bentosseII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+builder. investor. dad.
 
-Here are some ideas to get you started:
+## whoami
+- head of devrel @ [factory](https://factory.ai)
+- investor & writer @ [ben's bites](https://bensbites.com)
+- twin dad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## investments
+supabase, gamma, etched, scribe, factory, sf compute, flutterflow, wordware, pika, crewai, julius
+
+## tools
+factory, github, linear, granola, ghostty
+
+## prev
+- founder, makerpad → sold to zapier
+- sequoia & a16z scout
+- product hunt
+
+## contact
+- [twitter/x](https://x.com/bentossell)
+- [github](https://github.com/bentossell)
+- [linkedin](https://linkedin.com/in/ben-tossell-70453537)
